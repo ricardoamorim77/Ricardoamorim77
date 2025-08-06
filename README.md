@@ -38,7 +38,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 </p>
 
 ---
----
 
 ### 📊 Minhas Estatísticas no GitHub
 
