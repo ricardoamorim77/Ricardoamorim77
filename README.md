@@ -43,7 +43,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 
 *   **Tecnologias:** `React`, `JavaScript (ES6+)`, `CSS`, `API (OpenWeather)`.
-*   [**Ver Projeto Online**](https://previsaotempoamorim.netlify.app/) | [**Ver Código no GitHub**](https://github.com/ricardoamorim77/previsao-do-tempo)
+
 
          
 
