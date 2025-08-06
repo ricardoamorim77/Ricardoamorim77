@@ -38,15 +38,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 </p>
 
 ---
-
-### ✨ Projetos em Destaque
-
-
-*   **Tecnologias:** `React`, `JavaScript (ES6+)`, `CSS`, `API (OpenWeather)`.
-
-
-         
-
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
